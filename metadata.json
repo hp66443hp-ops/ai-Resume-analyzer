@@ -1,0 +1,5 @@
+{
+  "name": "Chankya AI: Resume Analyzer",
+  "description": "An AI-powered recruitment platform that helps companies analyze resumes against job descriptions and allows candidates to check their resume fit for specific roles.",
+  "requestFramePermissions": []
+}
